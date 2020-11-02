@@ -1,0 +1,28 @@
+@import "about.css";
+@import "body.css";
+@import "contact.css";
+@import "footer.css";
+@import "header.css";
+@import "navbar.css";
+@import "projects.css";
+
+@font-face {
+    font-family: tintoretto;
+    src: url(../Assets/Tintoretto.ttf);
+};
+
+@font-face {
+    font-family: frizQuad;
+    src: url(../Assets/QTFrizQuad\ Bold.ttf);
+}
+
+body {
+    background: url(../Assets/background9.jpg);
+    background-size: cover;
+}
+
+hr {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}

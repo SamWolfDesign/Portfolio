@@ -1,0 +1,19 @@
+.jumbotron {
+    font-family: frizQuad;
+    background: url('../Assets/cafePripyat.jpg') center center;
+    background-size: cover;
+    height: 23vh;
+    color: black;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+};
+
+@font-face {
+    font-family: frizQuad;
+    src: url(../Assets/QTFrizQuad\ Bold.ttf);
+};
+
+.display-4{
+    border: 2px;
+    border-style: solid;
+    border-color: black
+}

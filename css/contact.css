@@ -1,0 +1,16 @@
+.reachOut {
+    color: gold;
+    text-shadow: 3px 6px 0 #822121;
+    text-align: center;
+    background-image: linear-gradient(180deg, rgba(255,0,0,0), rgba(255,0,0,1));
+    font-family: frizQuad;
+    margin: 16px 16px 0px 16px;
+    border: 1px transparent;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 5px 0px 5px;
+}
+
+@font-face {
+    font-family: frizQuad;
+    src: url(../Assets/QTFrizQuad\ Bold.ttf);
+};

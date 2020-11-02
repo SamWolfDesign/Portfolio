@@ -1,0 +1,17 @@
+#carouselExampleCaptions {
+    margin: 16px 16px 0px 16px;
+    border: 1px transparent;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 5px 0px 5px;
+}
+
+.carousel-caption {
+    font-family: frizQuad;
+    color: black;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+    
+}
+@font-face {
+    font-family: frizQuad;
+    src: url(../Assets/QTFrizQuad\ Bold.ttf);
+}

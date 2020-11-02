@@ -1,0 +1,12 @@
+@font-face {
+    font-family: frizQuad;
+    src: url(../Assets/QTFrizQuad\ Bold.ttf);
+}
+
+.navbar-brand {
+    font-family: frizQuad;
+}
+
+#navbarNav {
+    font-family: frizQuad;
+}

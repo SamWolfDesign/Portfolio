@@ -1,0 +1,100 @@
+.helloWorld {
+    text-align: center;
+    font-family: frizQuad;
+    color: gold;
+    background: red;
+    background-size: auto;
+    text-shadow: 3px 6px 0 #822121;
+    margin: 16px 16px 0px 16px;
+    border: 1px transparent;
+    border-radius: 18px 18px 0px 0px;
+    padding: 10px 5px 0px 15px;
+}
+
+.display-4 {
+    border: 0px transparent;
+    margin: 0px 16px 0px 16px;
+    border-radius: 10px 10px 20px 20px;
+    padding: 0px 16px 0px -3px;
+    
+}
+
+.helloWorldFlair{
+    position: relative;
+    top: -18px;
+    border: 0px transparent;
+    margin: 16px 16px 0px 16px;
+    border-radius: 10px 10px 20px 20px;
+    padding: 0px 16px 0px 16px;
+}
+
+.dyQypj {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px 0px;
+    height: 13px;
+    opacity: 0.8;
+    background: red;
+}
+
+.iarkkR {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px 0px;
+    height: 6px;
+    margin: 0px 6px;
+    opacity: 0.6;
+    background: red;
+}
+
+.faRvJV {
+    height: 6px;
+    margin: 0px 12px;
+    opacity: 0.4;
+    background: red;
+}
+
+@font-face {
+    font-family: frizQuad;
+    src: url(../Assets/QTFrizQuad\ Bold.ttf);
+}
+
+.aboutMe {
+    text-align: center;
+    font-family: frizQuad;
+    color: gold;
+    background: red;
+    background-size: auto;
+    text-shadow: 3px 6px 0 #822121;
+    margin: 16px 16px 0px 16px;
+    border: 1px transparent;
+    border-radius: 18px 18px 0px 0px;
+    padding: 10px 5px 0px 15px;
+}
+.verticalLine {
+    border-left: thick solid #ff0000;
+}
+
+.aboutMeFlair {
+    position: relative;
+    top: 20px;
+    border: 0px transparent;
+    margin: 16px 16px 0px 16px;
+    border-radius: 10px 20px 20px 20px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: frizQuadSkin;
+    src: url(../Assets/friz\ quadrata\ bt.ttf);
+}
+.col-sm-7{
+    font-family: frizQuad;
+    font-style: unset;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    padding: 10px 5px 0px 15px;
+    border: 1px transparent;
+    border-radius: 18px 18px 18px 0px;
+}
+
+.img {
+    position: relative;
+    height: 5px;
+    width: 5px;
+}
